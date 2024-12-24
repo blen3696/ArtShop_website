@@ -1,5 +1,5 @@
 # E-commerce_website
-Team Members                     ID NO                                       
+Team Members                                                          
  
 1. Belean Redwan……………………….....UGR/5921/15 
 2. Kalkidan Adeba………………………....UGR/6457/15
